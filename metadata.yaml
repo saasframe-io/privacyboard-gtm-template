@@ -2,5 +2,5 @@ homepage: "https://privacyboard.io"
 documentation: "https://privacyboard.io/docs/cookie-banner/google-consent-mode"
 versions:
   # Latest version
-  - sha: PENDING
+  - sha: 8898d864f9faffc3311bb27f077484da15f8eda2
     changeNotes: Initial release.
